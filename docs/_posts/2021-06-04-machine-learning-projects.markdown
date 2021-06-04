@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Machine Learning project"
-date:   2021-06-04 23:16:48 +0800
+date:   2021-06-04 23:48:16 +0800
 categories: course projects
 ---
 
