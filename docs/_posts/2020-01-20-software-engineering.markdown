@@ -7,5 +7,6 @@ categories: course projects
 
 Last semester (Fall 2020), I took a Software Engineering course 
 
-<a href="https://github.com/JustinYFLau/20202021F-COMP3111-T-53/tree/master/src/main/java/comp3111/popnames">My work here</a>
-<a href="https://github.com/JustinYFLau/20202021F-COMP3111-T-53">Project root here</a>
+<a href="https://github.com/JustinYFLau/20202021F-COMP3111-T-53/tree/master/src/main/java/comp3111/popnames" target="_blank">My work here</a>
+
+<a href="https://github.com/JustinYFLau/20202021F-COMP3111-T-53" target="_blank">Project root here</a>
